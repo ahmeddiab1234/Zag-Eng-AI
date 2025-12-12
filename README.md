@@ -9,8 +9,8 @@ This file tracks the progress of all weekly sessions, topics, and delivery forma
 | Topic | By | Place | Done | Date |
 |--------|------|--------|------|------|
 | Introduction, Python basics | Ahmed Diab | Offline | ✅ | 4/12/2025 |
-| Introduction, Python basics | Basmala Saeed | Online | ✅ | 10/12/2025 |
-| Introduction, Python basics | Ahmed Diab  | Online | ✅ |11/12/2025  |
+|  Python basics | Basmala Saeed | Online | ✅ | 10/12/2025 |
+|  Python basics  | Ahmed Diab  | Online | ✅ |11/12/2025  |
 | Python OOP, Git/GitHub, venv, Project 1 | Ahmed Diab | Online | ❌ |  |
 | Numpy, Pandas, Matplotlib | Basmala Eltabakh | Offline | ❌ |  |
 | EDA Practice, Intro Descriptive Statistics, Project 2 | Basmala Eltabakh | Online | ❌ |  |
