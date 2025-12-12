@@ -1,0 +1,43 @@
+[
+    {
+        "amount": 25.5,
+        "category": "Food",
+        "date": "2025-12-01"
+    },
+    {
+        "amount": 10.0,
+        "category": "Transport",
+        "date": "2025-12-01"
+    },
+    {
+        "amount": 120.75,
+        "category": "Shopping",
+        "date": "2025-12-02"
+    },
+    {
+        "amount": 45.0,
+        "category": "Food",
+        "date": "2025-12-03"
+    },
+    {
+        "amount": 5.0,
+        "category": "Snacks",
+        "date": "2025-12-04"
+    },
+    {
+        "amount": 60.0,
+        "category": "Bills",
+        "date": "2025-12-05"
+    },
+    {
+        "amount": 105.0,
+        "category": "games",
+        "date": "2025-12-9"
+    },
+    {
+        "amount": 25.5,
+        "category": "games",
+        "date": "2025-7-5"
+    }
+]
+
