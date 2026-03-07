@@ -11,8 +11,13 @@ This file tracks the progress of all weekly sessions, topics, and delivery forma
 | Introduction, Python basics | Ahmed Diab | Offline | ✅ | 4/12/2025 |
 |  Python basics | Basmala Saeed | Online | ✅ | 10/12/2025 |
 |  Python basics  | Ahmed Diab  | Online | ✅ |11/12/2025  |
-| Python OOP, Git/GitHub, venv, Project 1 | Ahmed Diab | Online | ❌ |  |
-| Numpy, Pandas, Matplotlib | Basmala Eltabakh | Offline | ❌ |  |
+|  Git/GitHub, venv  | Ahmed Diab | Offline | ✅ | 24/1/2026 |
+| Python OOP | Ahmed Diab | Online | ✅ |  25/1/2026|
+| Python OOP | Ahmed Diab | Online | ✅ |  26/1/2026|
+| Project 1  | Ahmed Diab | Online | ✅ |  28/1/2026|
+| ASK ME Project Discussion  | Ahmed Diab | Offline| ✅ |  1/2/2026|
+ Numpy | Basmala Eltabakh | Online | ✅ | 3/2/2025 |
+|  Pandas Intro | Basmala Eltabakh | Online |✅  |6/2/2025  |
 | EDA Practice, Intro Descriptive Statistics, Project 2 | Basmala Eltabakh | Online | ❌ |  |
 | Descriptive Statistics / Probability | Basmala Eltabakh | Offline | ❌ |  |
 | Power BI, Project 3 | Basmala Eltabakh | Online | ❌ |  |
